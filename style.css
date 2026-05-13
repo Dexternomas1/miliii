@@ -335,9 +335,9 @@ body {
     position: absolute;
     top: -70px;
     left: -70px;
-    animation: balloon1 2s infinite linear;
+    animation: altoke 2s infinite linear;
 }
-@keyframes balloon1{
+@keyframes altoke{
     0%, 50%,100%{
         transform-origin: bottom right;
         transform: rotate(0deg);
